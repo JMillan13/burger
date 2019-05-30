@@ -1,7 +1,7 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #9acd32;
 }
 
 .label {
@@ -11,9 +11,25 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background:yellow;
+  background:red;
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body {
+  background-image: url('/assets/img/3burgers.jpg')
+}
+
+body {
+  color:white;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+h1 {
+  color:rgb(145, 255, 0);
+  font-size: 90px;
 }
