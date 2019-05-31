@@ -18,8 +18,10 @@ li {
   margin-bottom: 5px;
 }
 
-body {
-  background-image: url('/assets/img/3burgers.jpg')
+.page-background {
+  background-image: url('/assets/img/3burgers.jpg');
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
 }
 
 body {
