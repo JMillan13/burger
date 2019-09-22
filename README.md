@@ -20,7 +20,7 @@ MVC may not be immediately intuitive, or obviously useful on a small scale, but 
 Eat Da Burger
 Following the MVC design pattern, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
-Helpful Links
+Helpful Links:
 MVC
 Separation of concerns
 Handlebars.js
