@@ -19,7 +19,7 @@ Last, but not least, is the Controller.  You can think of it as the intermediary
 MVC may not be immediately intuitive, or obviously useful on a small scale, but becomes very useful when working collaboratively or adapting an application to changing technical needs. Team members no longer need to work on top of each other as concerns are separated into distinct sections and components of the stack can be swapped in and out without dramatically affecting the codebase. Say, for example, I want to migrate my app from MySQL to PostgreSQL. To do so would simply be a matter of updating the ORM. The same is true for the View layer if I wanted to implement a template engine other than Handlebars or migrate to a front-end framework such as React (which I will do before I'm done!).
 
 
-Eat Da Burger
+Joe's Burger
 
 Following the MVC design pattern, you'll create a burger logger with:
 
@@ -30,3 +30,7 @@ MVC
 Separation of concerns
 Handlebars.js
 Handlebars Website
+
+
+![image](https://user-images.githubusercontent.com/46582302/65398341-8cd98d00-dd84-11e9-9ae5-ff4aa2970e0b.png)
+
